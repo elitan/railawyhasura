@@ -1,0 +1,1 @@
+FROM nhost/hasura-auth:0.19.0
