@@ -1,1 +1,1 @@
-FROM nhost/hasura-auth:0.17.1
+FROM nhost/hasura-auth:latest
