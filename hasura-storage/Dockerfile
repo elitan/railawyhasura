@@ -1,0 +1,1 @@
+FROM nhost/hasura-storage:latest
