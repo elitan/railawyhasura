@@ -1,1 +1,1 @@
-FROM nhost/hasura-storage:latest
+FROM nhost/hasura-storage:0.3.3
